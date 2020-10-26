@@ -15,5 +15,6 @@ Good luck, guys!
 
 
 ## 更新说明
-- 支持SS或者SSR
+- 支持SS或者SSR npm run build
+
 
